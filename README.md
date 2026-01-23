@@ -7,9 +7,9 @@
 ### 🤵 About Me:
 - 🕹️ I'm currently working for an e-learning based startup where i make the engine for the games using react/javascript and three.js <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🤔 I use daily ```.js```,``` .jsx```
-- 🌱 I’m currently learning ```glsl```
-- 💬 Talk to me about graphic programming and plants :sunglasses:
-- ⚡ Fun fact: i love to play video games
+- 🌱 I’m currently learning ```glsl``` & ```ts```
+- 💬 Talk to me about graphic programming and goofy stuff :sunglasses:
+- ⚡ I love to play video games
 - 🧑‍💻 Tech i work on: 
 
 <p align="left">
